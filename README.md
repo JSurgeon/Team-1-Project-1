@@ -1,2 +1,17 @@
 # Team-1-Project-1
-#This is the team#1 repository for project #1 of the UofO Data Analytics Bootcamp
+
+Team 1 – Project 1 
+Team Members: 
+Adam Pugh
+Cheyenne Martin
+Crystal 
+Jonathan Surgeon
+Nathan Putnam 
+
+Proposal:  Utilize The World Bank API to pull GPD related data for different countries. 
+
+High Level Questions:
+Population Size vs GDP 
+World Bank Income Level medium income change overtime 
+Life Expectancy vs GDP 
+% of men and women in workforce vs. GPD
