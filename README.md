@@ -1,9 +1,9 @@
 # Team-1-Project-1
 
 Team 1 – Project 1
-\nTeam Members: 
-\nAdam Pugh
-\nCheyenne Martin
+#Team Members: 
+#Adam Pugh
+#Cheyenne Martin
 \nJonathan Surgeon
 \nNathan Putnam 
 
