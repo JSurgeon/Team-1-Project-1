@@ -4,16 +4,15 @@ Team 1 – Project 1
 Team Members: 
 Adam Pugh
 Cheyenne Martin
-Crystal 
 Jonathan Surgeon
 Nathan Putnam 
 
-Proposal:  Utilize The World Bank API to pull GPD related data for different countries. 
+# Proposal:  Utilize The World Bank API to pull GPD related data for different countries. 
 
 High Level Questions:
-Population Size vs GDP 
-World Bank Income Level medium income change overtime 
-Life Expectancy vs GDP 
-% of men and women in workforce vs. GPD
+Population Size vs GDP,
+World Bank Income Level change overtime,
+Distribution of GDP over the years of 2015-2019
+Heatmap of Highest and "Lowest" (zero/null) GDP's in the most recent year (2019)
 
-gmaps config.py needs your gmaps API key to run the code
+Note: config.py file needs your gmaps API key to run the code for the gmaps heatmap code as API key is not provided for security reasons.
