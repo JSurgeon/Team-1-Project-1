@@ -15,3 +15,5 @@ Population Size vs GDP
 World Bank Income Level medium income change overtime 
 Life Expectancy vs GDP 
 % of men and women in workforce vs. GPD
+
+gmaps config.py needs your gmaps API key to run the code
