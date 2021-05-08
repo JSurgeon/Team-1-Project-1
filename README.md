@@ -10,8 +10,8 @@ Team 1 – Project 1
 # Proposal:  Utilize The World Bank API to pull GPD related data for different countries. 
 
 High Level Questions:
-<br>Population Size vs GDP,
-<br>World Bank Income Level change overtime,
+<br>Population Size vs GDP
+<br>World Bank Income Level change overtime
 <br>Distribution of GDP over the years of 2015-2019
 <br>Heatmap of Highest and "Lowest" (zero/null) GDP's in the most recent year (2019)
 
