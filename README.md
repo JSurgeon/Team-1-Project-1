@@ -1,11 +1,11 @@
 # Team-1-Project-1
 
-Team 1 – Project 1 
-Team Members: 
-Adam Pugh
-Cheyenne Martin
-Jonathan Surgeon
-Nathan Putnam 
+Team 1 – Project 1
+\nTeam Members: 
+\nAdam Pugh
+\nCheyenne Martin
+\nJonathan Surgeon
+\nNathan Putnam 
 
 # Proposal:  Utilize The World Bank API to pull GPD related data for different countries. 
 
