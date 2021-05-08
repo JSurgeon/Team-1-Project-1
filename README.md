@@ -15,4 +15,4 @@ High Level Questions:
 <br>Distribution of GDP over the years of 2015-2019
 <br>Heatmap of Highest and "Lowest" (zero/null) GDP's in the most recent year (2019)
 
-Note: config.py file needs your gmaps API key to run the code for the gmaps heatmap code as API key is not provided for security reasons.
+# Note: config.py file needs your gmaps API key to run the code for the gmaps heatmap code as API key is not provided for security reasons.
